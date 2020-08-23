@@ -17,6 +17,7 @@ Following packages were used:
 - Matplotlib 3.2.2
 - Seaborn 0.10.1
 - Sklearn_extra 0.1.0b2
+- Scipy 1.4.1
 
 ### Software
 
