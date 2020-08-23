@@ -39,4 +39,4 @@ The project consists of five parts: data cleaning, feature engineering, explorat
 
 # Summary
 
-Both clustering models used in the project (K-medoids, agglomerative clustering) indicated exactly the same 48 countries as countries in need of humanitarian aid. Most of the indicated countries are in Africa, some in Asia. All of them are charaterised with the lowest results in socio-economic indicators. Full list of countries included in the underdeveloped cluster can be found in 'Countries.txt' file.
+Both clustering models used in the project (K-medoids, agglomerative clustering) indicated exactly the same 48 countries as countries in need of humanitarian aid. Most of the indicated countries are in Africa, some in Asia. All of them are characterised with the lowest results in socio-economic indicators. Full list of countries included in the underdeveloped cluster can be found in 'Countries.txt' file.
