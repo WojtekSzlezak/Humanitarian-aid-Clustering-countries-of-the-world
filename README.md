@@ -21,7 +21,7 @@ Following packages were used:
 
 ### Software
 
-Project was created using Google Colaboratory and this is recommended environment for reviewing and executing the code. Google Colaboratory already have most of required packages installed (code for installing sklearn_extra - only one missing - is already provided in the notebook). Google Colab is accessible via google drive, so there is no need to install any software. Otherwise you can use Jupyter Notebook. This option may require to adjust display options for plotly graphics and to install more missing libraries with pip install command.
+Project was created using Google Colaboratory and this is recommended environment for reviewing and executing the code. Google Colaboratory already have most of required packages installed (code for installing sklearn_extra - only one missing - is already provided in the notebook). Google Colab is accessible via google drive, so there is no need to install any software. Otherwise you can use Jupyter Notebook. This option may require to adjust display options for plotly graphics and to install additional missing libraries with pip install command.
 
 ### Data
 
